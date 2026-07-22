@@ -106,4 +106,4 @@ Progreso: █░░░░░░░░░ 1%
 
 ---
 
-**Autor:** Enmanuel Franco
+**Autor:** Ridelfis Enmanuel Franco
